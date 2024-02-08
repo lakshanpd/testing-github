@@ -1,4 +1,2 @@
-Hi world
-this is a conflict in lakshan branch
-
+conflict is no here
 
