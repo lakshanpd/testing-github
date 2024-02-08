@@ -1,4 +1,0 @@
-﻿my
-new
-file
-new content is added in main
